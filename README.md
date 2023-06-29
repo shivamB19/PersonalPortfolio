@@ -15,13 +15,13 @@ To install **portfolio**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/shivamB19/PersonalPortfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone
+git clone https://github.com/shivamB19/PersonalPortfolio.git
 
 ## Contact
 
