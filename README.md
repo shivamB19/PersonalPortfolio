@@ -22,8 +22,8 @@ Windows:
 
 ```bash
 git clone https://github.com/shivamB19/PersonalPortfolio.git
-
-## Contact
+```
+## Contact Me
 
 If you want to contact me you can reach me at [Instagram] : https://www.instagram.com/shivamsharmaa25_ 
 
