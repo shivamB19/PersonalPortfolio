@@ -5,7 +5,7 @@ This website is a fully responsive personal portfolio website, responsive for al
 
 # Demo
 
-The demo of the site can be seen by clicking ont the link [https://about-shivam.netlify.app/]
+The demo of the site can be seen by clicking on the link (https://about-shivam.netlify.app/)
 
 ## Prerequisites
 
