@@ -16,6 +16,13 @@
 
 </center>
 
+<h3 align="center">
+    🔹
+    <a href="https://github.com/ShivamB19/PersonalPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/ShivamB19/PersonalPortfolio/issues">Request Feature</a>
+</h3>
+
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ShivamB19](https://github.com/ShivamB19/PersonalPortfolio). Thanks!
