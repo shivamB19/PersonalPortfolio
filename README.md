@@ -11,20 +11,23 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp; 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 </center>
 
-# PersonalPortfolio
+## Built with
 
-This website is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Personal Portfolio Website <a href="https://about-shivam.netlify.app/" target="_blank">about-shivam</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
+This project was built using these technologies.
 
-## Demo
-
-Personal Portfolio Website <a href="https://about-shivam.netlify.app/" target="_blank">demo</a> 
+- HTML
+- CSS3
+- Javascript
+- VsCode
+- Netlify
 
 ## Prerequisites
 
