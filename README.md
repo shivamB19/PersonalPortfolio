@@ -3,7 +3,7 @@
 This website is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
-# Demo
+## Demo
 
 The demo of the site can be seen by clicking on the link (https://about-shivam.netlify.app/)
 
