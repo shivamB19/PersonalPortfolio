@@ -3,8 +3,7 @@
   <a href="https://about-shivam.netlify.app/" target="_blank">about-shivam</a>
 </h2>
 <div align="center">
-  <img alt="Demo1" src=".assets/images1/readme-images1.png" />
-  <img alt="Demo2" src=".assets/images/readme-image2.jpg" />
+  <img alt="Demo1" src="./assets/images/Readme-images1.png" />
 </div>
 
 <br/>
@@ -17,6 +16,10 @@
 
 </center>
 
+## TL;DR
+
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ShivamB19](https://github.com/ShivamB19/PersonalPortfolio). Thanks!
+
 ## Built with
 
 Personal Portfolio Website <a href="https://about-shivam.netlify.app/" target="_blank">about-shivam</a> which features some of my github projects as well as my resume and technical skills.<br/>
@@ -28,6 +31,15 @@ This project was built using these technologies.
 - Javascript
 - VsCode
 - Netlify
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with CSS to customize colors**
+
+**📱 Fully Responsive**
+
 
 ## Prerequisites
 
