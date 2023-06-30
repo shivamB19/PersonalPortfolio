@@ -1,3 +1,22 @@
+<h2 align="center">
+  Portfolio Website<br/>
+  <a href="https://about-shivam.netlify.app/" target="_blank">about-shivam</a>
+</h2>
+<div align="center">
+  <img alt="Demo1" src=".assets/images1/readme-images1.png" />
+  <img alt="Demo2" src=".assets/images/readme-image2.jpg" />
+</div>
+
+<br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+
+</center>
+
 # PersonalPortfolio
 
 This website is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
